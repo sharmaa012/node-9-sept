@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Alwyn",
+        "last_name": "Brownsett",
+        "email": "abrownsett0@apache.org",
+        "gender": "Male",
+        "salary": 10000
+    },
+    {
+        "id": 2,
+        "first_name": "Gunter",
+        "last_name": "Wein",
+        "email": "gwein1@seesaa.net",
+        "gender": "Male",
+        "salary": 20000
+    },
+    {
+        "id": 3,
+        "first_name": "Kaspar",
+        "last_name": "MacTrustam",
+        "email": "kmactrustam2@ftc.gov",
+        "gender": "Male",
+        "salary": 15000
+    },
+    {
+        "id": 4,
+        "first_name": "Idette",
+        "last_name": "Sarsfield",
+        "email": "isarsfield3@fotki.com",
+        "gender": "Female",
+        "salary": 19000
+    },
+    {
+        "id": 5,
+        "first_name": "Calley",
+        "last_name": "Renfrew",
+        "email": "crenfrew4@usgs.gov",
+        "gender": "Female",
+        "salary": 9000
+    },
+    {
+        "id": 6,
+        "first_name": "Georgetta",
+        "last_name": "Clemmow",
+        "email": "gclemmow5@techcrunch.com",
+        "gender": "Genderfluid",
+        "salary": 11000
+    },
+    {
+        "id": 7,
+        "first_name": "Micki",
+        "last_name": "McIlriach",
+        "email": "mmcilriach6@devhub.com",
+        "gender": "Female",
+        "salary": 10000
+    },
+    {
+        "id": 8,
+        "first_name": "Fredrika",
+        "last_name": "Colcutt",
+        "email": "fcolcutt7@hhs.gov",
+        "gender": "Female",
+        "salary": 17000
+    },
+    {
+        "id": 9,
+        "first_name": "Say",
+        "last_name": "Fawcitt",
+        "email": "sfawcitt8@goodreads.com",
+        "gender": "Male",
+        "salary": 21000
+    },
+    {
+        "id": 10,
+        "first_name": "Daron",
+        "last_name": "Hoonahan",
+        "email": "dhoonahan9@zimbio.com",
+        "gender": "Female",
+        "salary": 25000
+    }
+]
